@@ -1,0 +1,1 @@
+<?php echo "CONEXIÓN EXITOSA - " . date("H:i:s"); ?>
